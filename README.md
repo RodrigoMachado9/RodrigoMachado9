@@ -4,8 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
 
 ### About me
-I'm a {backend} developer.
+I am very curious and I like to create and try innovative solutions. Back-end systems and native cloud applications have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality APIs based on the microservice architecture.
+Since college, the cloud and distributed systems have been my field of choice. I am very lucky to work with something that I am really passionate about. 
 
+### Skill
+I'm a software developer specialist {backend} .
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
