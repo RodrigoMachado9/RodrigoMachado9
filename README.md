@@ -10,9 +10,8 @@ Since college, the cloud and ```distributed systems``` have been my field of cho
 
 ***
 ### Skill
-
 I'm a software development specialist ```{backend}```.
-
+***
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
