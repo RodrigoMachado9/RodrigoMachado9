@@ -5,14 +5,14 @@
 
 ### About me
 
-I am very curious and I like to create and try innovative solutions. Back-end systems and native cloud applications have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality APIs based on the microservice architecture.
-Since college, the cloud and distributed systems have been my field of choice. I am very lucky to work with something that I am really passionate about. 
+I am very ```curious``` and I like to create and try innovative solutions. ```Back-end systems``` and native cloud applications have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality APIs based on the microservice ```architecture```.
+Since college, the cloud and ```distributed systems``` have been my field of choice. I am very lucky to work with something that I am really passionate about. 
 
-
+***
 ### Skill
-```
-I'm a software development specialist {backend} .
-```
+
+I'm a software development specialist ```{backend}```.
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
