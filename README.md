@@ -1,6 +1,6 @@
 # Hi, Welcome ! :shell: :snake:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rodrigo-machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
+[![Linkedin Badge](https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
 
 >### About me
 
