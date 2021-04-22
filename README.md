@@ -4,11 +4,7 @@
 
 
   
->### About me
-
-<div style="text-align: center;">
-<img style="text-align: center;" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  
+>### About me  
 My name is Rodrigo Machado, I am very ```curious``` and I like to create and try innovative solutions. ```Back-end systems``` and cloud applications have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality APIs based on the microservice ```architecture```.
 Since college, the cloud and ```distributed systems``` have been my field of choice. I am very lucky to work with something that I am really passionate about. 
 
@@ -19,6 +15,8 @@ I'm a software development ```{backend}```.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <div style="text-align: center;">
+    <img style="text-align: left;" alt="GIF" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
     <img
       align="center"
       height="165"
