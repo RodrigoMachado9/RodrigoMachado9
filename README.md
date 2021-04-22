@@ -16,7 +16,7 @@ I'm a software development ```{backend}```.
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <div style="text-align: center;">
-    <img style="text-align: left;" alt="GIF" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+    <img align="center" alt="GIF" height="165" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
     <img
       align="center"
       height="165"
