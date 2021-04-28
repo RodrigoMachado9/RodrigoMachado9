@@ -14,7 +14,7 @@ I'm a software development ```{backend}```.
 ***
 
 >### My interests are ❤️ 
-Cloud architecture ☁️, clean code, api design.
+Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
 ***
 
 <p align="center">
