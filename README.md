@@ -31,7 +31,7 @@ Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=RodrigoMachado9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=RodrigoMachado9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gruvbox"
     />
   </a>
 </p>
