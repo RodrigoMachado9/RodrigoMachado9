@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
 
 <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=RodrigoMachado9&label=Visits" alt="ypankovych" />
+	<img src="https://komarev.com/ghpvc/?username=RodrigoMachado9&label=Visitors" alt="ypankovych" />
 </p>
 
   
