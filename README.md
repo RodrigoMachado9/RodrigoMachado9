@@ -12,7 +12,6 @@ Since college, the cloud and ```distributed systems``` have been my field of cho
 >### Skill
 I'm a software development ```{backend}```.
 ***
----
 
 
 >### My interests are ❤️ 
