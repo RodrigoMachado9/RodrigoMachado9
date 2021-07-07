@@ -18,7 +18,7 @@ I'm a software development ```{backend}```.
 Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
 ***
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=gruvbox&column=8&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=chalk&column=8&no-frame=true&no-bg=true"/>
 </a>
 
 
