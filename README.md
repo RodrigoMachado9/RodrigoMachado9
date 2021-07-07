@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
 
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=RodrigoMachado9&label=Visits" alt="ypankovych" />
+</p>
+
   
 >### About me  
 My name is Rodrigo Machado, I am very ```curious``` and I like to create and try innovative solutions. ```Back-end systems``` and cloud applications have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality API's based on the microservice ```architecture```.
@@ -20,8 +24,6 @@ Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=chalk&column=8&no-frame=true&no-bg=true"/>
 </a>
-
-
 
 
 <p align="center">
