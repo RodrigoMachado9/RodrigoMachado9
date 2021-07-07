@@ -12,11 +12,15 @@ Since college, the cloud and ```distributed systems``` have been my field of cho
 >### Skill
 I'm a software development ```{backend}```.
 ***
+---
+
 
 >### My interests are ❤️ 
 Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
 ***
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <div style="text-align: center;">
