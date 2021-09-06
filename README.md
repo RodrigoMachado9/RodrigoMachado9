@@ -30,7 +30,7 @@ I'm a software development ```{backend}```.
 ***
 
 
->### My interests are ❤️ 
+>### My interests are
 Cloud architecture ☁️, clean code, api design, devOps, devSecOps.
 ***
 <a href="https://github.com/ryo-ma/github-profile-trophy">
