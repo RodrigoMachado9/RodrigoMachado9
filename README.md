@@ -9,7 +9,7 @@
 	    <img
       align="center"
       height="25"
-      src="https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)"
+      src="https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)"</a>
 </p>
 
       
