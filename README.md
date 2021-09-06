@@ -1,9 +1,5 @@
 # Hi, Welcome ! :shell: :snake:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rodrigomachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)
-
-[![Stackoverflow Badge](https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile)](https://stackoverflow.com/users/11627266/rmachado?tab=profile)
-
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
     <div style="text-align: center;">
