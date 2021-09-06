@@ -4,6 +4,20 @@
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile)](https://stackoverflow.com/users/11627266/rmachado?tab=profile)
 
+<p align="center">
+  <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
+    <div style="text-align: center;">
+    <img align="center" alt="Badge" height="25" src="https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" />
+    <img
+      align="center"
+      height="25"
+      src="https://github-readme-stats.vercel.app/api?username=RodrigoMachado9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gruvbox"
+    />
+  </a>
+</p>
+
+      
+
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=RodrigoMachado9&label=Visitors" alt="RodrigoMachado9" />
 	
