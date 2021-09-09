@@ -31,7 +31,7 @@ I'm a software development ```{backend}```.
 
 
 >### My interests are
-Cloud ☁️, clean code, api design, devOps, devSecOps.
+Clean code, Cloud ☁️, Api design, DevOps, DevSecOps.
 ***
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=chalk&column=8&no-frame=true&no-bg=true"/>
