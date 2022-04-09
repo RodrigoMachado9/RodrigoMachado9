@@ -9,7 +9,7 @@
 	    <img
       align="center"
       height="25"
-      src="https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/user/evilmachado/)](https://www.reddit.com/user/evilmachado/)"</a>
+      src="https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/evilmachado/)](https://www.reddit.com/user/evilmachado/)"</a>
       <a href="https://discord.com/channels/@me/962419534386565120/" target="_blank" >
 	    <img
       align="center"
