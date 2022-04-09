@@ -19,6 +19,7 @@
 	    <img
       align="center"
       height="25"
+      onclick="window.alert('say hello');"
       src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 		 </a>
 </p>
