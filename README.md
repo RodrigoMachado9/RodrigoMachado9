@@ -31,7 +31,7 @@
 </p>
   
 >### About me  
->My name is Rodrigo Machado, I am very ```curious``` and I like to create and try innovative solutions. ```Back-end systems``` and cloud applications >have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality API's based on the >microservice ```architecture```.
+>My name is Rodrigo Machado, I am very ```curious``` and I like to create and try innovative solutions. ```Back-end systems``` and cloud applications  have been my specialty and I am dedicated to being always up to date on how to create reliable, scalable and high quality API's based on the microservice ```architecture```.
 >Since college, the cloud and ```distributed systems``` have been my field of choice. I am very lucky to work with something that I am really passionate >about. 
 
 ***
