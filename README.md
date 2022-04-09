@@ -15,10 +15,11 @@
       align="center"
       height="25"
       src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/962419534386565120/)](https://discord.com/channels/@me/962419534386565120/)"</a>
-      <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/"  target="_blank" >
+      <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" >
 	    <img
       align="center"
       height="25"
+      onclick="window.open('https://www.linkedin.com/in/rodrigo-machado-6b0b33177/')"
       src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
 
