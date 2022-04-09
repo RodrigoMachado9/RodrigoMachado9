@@ -18,7 +18,7 @@
       <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" >
 	    <img
       align="center"
-      onclick="window.open('https://www.linkedin.com/in/rodrigo-machado-6b0b33177/', '_blank');
+      onclick="window.open('https://www.linkedin.com/in/rodrigo-machado-6b0b33177/', '_blank');"
       height="25"
       src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)"
 		 </a>
