@@ -5,6 +5,11 @@
     <div style="text-align: center;">
     <img align="center" alt="Badge" height="25" src="https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" />
   </a>
+      <a href="https://www.reddit.com/user/evilmachado/" target="_blank" >
+	    <img
+      align="center"
+      height="25"
+      src="https://img.shields.io/badge/-rodrigomachado-black?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)](https://www.linkedin.com/in/rodrigo-machado-6b0b33177/)"</a>
       <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" target="_blank" >
 	    <img
       align="center"
