@@ -44,23 +44,40 @@
 >### My interests are
 >Clean code, Cloud, Api design, DevOps, DevSecOps.
 ***
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=chalk&column=8&no-frame=true&no-bg=true"/>
-</a>
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <div style="text-align: center;">
-    <img align="center" alt="GIF" height="165" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=RodrigoMachado9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gruvbox"
-    />
-  </a>
-</p>
+[//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
 
+[//]: # (  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RodrigoMachado9&theme=chalk&column=8&no-frame=true&no-bg=true"/>)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://github.com/anuraghazra/github-readme-stats">)
+
+[//]: # (    <div style="text-align: center;">)
+
+[//]: # (    <img align="center" alt="GIF" height="165" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />)
+
+[//]: # (    <img)
+
+[//]: # (      align="center")
+
+[//]: # (      height="165")
+
+[//]: # (      src="https://github-readme-stats.vercel.app/api?username=RodrigoMachado9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=gruvbox")
+
+[//]: # (    />)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+[//]: # ()
 
 
 
