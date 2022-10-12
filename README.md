@@ -46,7 +46,8 @@
 ***
 
 [//]: # ([![Matrix SVG]&#40;https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
-[![Matrix SVG](matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[//]: # ([![Matrix SVG]&#40;matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
+[![Matrix SVG](samurai.png)]() 
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
 
