@@ -1,4 +1,4 @@
-# Hi there ! :shell: :snake:
+# Hi there ! :shell: :dragon:
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
