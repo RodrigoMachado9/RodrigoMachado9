@@ -1,4 +1,4 @@
-# Hi there ! :penguin: :dragon:
+# Hi there ! :shinto_shrine: :dragon:
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
