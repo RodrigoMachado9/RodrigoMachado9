@@ -42,7 +42,7 @@ I'm a software development ```{backend}```.
 ***
 
 
-## My interests are
+## My interests
 Clean code, Cloud, Api design, DevOps, DevSecOps.
 ***
 
