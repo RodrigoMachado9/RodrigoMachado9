@@ -1,4 +1,4 @@
-# Hi there ! :shinto_shrine: :dragon: :tea:
+# :penguin: Hi there !  :shinto_shrine: :dragon: :tea: 
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
@@ -81,6 +81,7 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 [//]: # (</p>)
 
 [//]: # ()
+
 
 
 
