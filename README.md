@@ -49,7 +49,9 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 [//]: # ([![Matrix SVG]&#40;https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
 [//]: # ([![Matrix SVG]&#40;matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
 
-![scientist](https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848" alt="scientist" height="800" width="1000"/>
+</p>
 
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
