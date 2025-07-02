@@ -50,9 +50,9 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 [//]: # ([![Matrix SVG]&#40;matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848" alt="scientist" height="800" width="1000"/>
+<!--   <img src="https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848" alt="scientist" height="800" width="1000"/> -->
+  <img src="https://github.com/user-attachments/assets/1e023202-5ab2-4216-b4c8-b7c7eea3e373" alt="scientist" height="800" width="1000"/>
 </p>
-
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
 
