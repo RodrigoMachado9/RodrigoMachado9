@@ -4,27 +4,13 @@
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile" target="_blank">
     <div style="text-align: center;">
-<!--     <img align="center" alt="Badge" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" /> -->
 	    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" /></a>
       <a href="https://www.reddit.com/user/evilmachado/" target="_blank" >
-<!-- 	    <img
-      align="center"
-      height="25"
-      src="https://img.shields.io/badge/-reddit-black?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/evilmachado/)](https://www.reddit.com/user/evilmachado/)" -->
 	      <img alt="Reddit" height="25" src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
 		    </a>
       <a href="https://discord.com/channels/@me/962419534386565120/" target="_blank" >
-<!-- 	    <img
-      align="center"
-      height="25"
-      src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me/962419534386565120/)](https://discord.com/channels/@me/962419534386565120/)" -->
 		    <img alt="Discord" height="25" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
       <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" >
-<!-- 	    <img
-      align="center"
-      height="25"
-      onclick="window.open('https://www.linkedin.com/in/rodrigo-machado-6b0b33177/')"
-      src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /> -->
       <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
      
