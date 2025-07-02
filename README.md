@@ -23,23 +23,7 @@
       onclick="window.open('https://www.linkedin.com/in/rodrigo-machado-6b0b33177/')"
       src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
---
-<p align="center">
-  <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile" target="_blank">
-    <img align="center" alt="Badge" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/evilmachado/" target="_blank">
-    <img align="center" height="25" src="https://img.shields.io/badge/-reddit-black?style=flat-square&logo=Reddit&logoColor=white" />
-  </a>
-  <a href="https://discord.com/channels/@me/962419534386565120/" target="_blank">
-    <img align="center" height="25" src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" target="_blank">
-    <img align="center" height="25" src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
-
-      
+     
 
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=RodrigoMachado9&label=Visitors" alt="RodrigoMachado9" />
