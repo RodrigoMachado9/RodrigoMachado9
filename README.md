@@ -5,7 +5,7 @@
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
     <div style="text-align: center;">
 <!--     <img align="center" alt="Badge" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" /> -->
-	    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white" /></a>
+	    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" /></a>
       <a href="https://www.reddit.com/user/evilmachado/" target="_blank" >
 <!-- 	    <img
       align="center"
