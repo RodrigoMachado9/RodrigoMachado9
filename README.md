@@ -1,18 +1,24 @@
 # ☸ Hi there !  :shinto_shrine: :dragon: :tea: 
 
 
-<p align="center">
+<p>
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile" target="_blank">
-    <div style="text-align: center;">
-	    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11627266/rmachado?tab=profile" /></a>
-      <a href="https://www.reddit.com/user/evilmachado/" target="_blank" >
-	      <img alt="Reddit" height="25" src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
-		    </a>
-      <a href="https://discord.com/channels/@me/962419534386565120/" target="_blank" >
-		    <img alt="Discord" height="25" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" >
-      <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=Stackoverflow&logoColor=white" />
+  </a>
+
+  <a href="https://www.reddit.com/user/evilmachado/" target="_blank">
+    <img alt="Reddit" height="25" src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/channels/@me/962419534386565120/" target="_blank">
+    <img alt="Discord" height="25" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" target="_blank">
+    <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
      
 
 <p align="right">
