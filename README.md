@@ -91,3 +91,27 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 
 
 
+
+
+<p align="center">
+  <!-- Certificações -->
+  <img alt="AWS Certified" height="25" src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Python" height="25" src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Kubernetes" height="25" src="https://img.shields.io/badge/Kubernetes-Proficient-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  
+  <!-- Linguagens -->
+  <img alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-Fullstack-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Node.js" height="25" src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="React" height="25" src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+  <!-- Contato & Redes -->
+  <a href="https://www.linkedin.com/in/rodrigo-machado-6b0b33177/" target="_blank">
+    <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/11627266/rmachado" target="_blank">
+    <img alt="Stack Overflow" height="25" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/evilmachado/" target="_blank">
+    <img alt="Reddit" height="25" src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+  </a>
+</p>
