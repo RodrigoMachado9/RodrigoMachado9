@@ -1,4 +1,4 @@
-![ChatGPT Image 2 de jul  de 2025, 17_24_20](https://github.com/user-attachments/assets/812b5e13-7e4f-4c74-bb4a-1be9b65a7b01)# ☸ Hi there !  :shinto_shrine: :dragon: :tea: 
+☸ Hi there !  :shinto_shrine: :dragon: :tea: 
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
