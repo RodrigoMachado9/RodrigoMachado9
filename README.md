@@ -1,4 +1,4 @@
-# ☸ Hi there !  :shinto_shrine: :dragon: :tea: 
+![ChatGPT Image 2 de jul  de 2025, 17_24_20](https://github.com/user-attachments/assets/812b5e13-7e4f-4c74-bb4a-1be9b65a7b01)# ☸ Hi there !  :shinto_shrine: :dragon: :tea: 
 
 <p align="center">
   <a href="https://stackoverflow.com/users/11627266/rmachado?tab=profile">
@@ -51,8 +51,10 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 
 <p align="center">
 <!--   <img src="https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848" alt="scientist" height="800" width="1000"/> -->
-  <img src="https://github.com/user-attachments/assets/1e023202-5ab2-4216-b4c8-b7c7eea3e373" alt="scientist" height="800" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/7547c38f-79d2-4c29-88b5-334573086801" alt="scientist" height="800" width="1000"/>
 </p>
+
+
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy">)
 
