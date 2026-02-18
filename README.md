@@ -45,10 +45,10 @@ Clean code, Cloud, Api design, DevOps, DevSecOps.
 [//]: # ([![Matrix SVG]&#40;https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
 [//]: # ([![Matrix SVG]&#40;matrix.svg&#41;]&#40;https://www.youtube.com/watch?v=SDkAGkd4NLc&#41; )
 
-<p align="center">
+<!-- <p align="center">
 <!--   <img src="https://github.com/user-attachments/assets/783c5cd5-7165-419f-93b0-cc568daea848" alt="scientist" height="800" width="1000"/> -->
-  <img src="https://github.com/user-attachments/assets/7547c38f-79d2-4c29-88b5-334573086801" alt="scientist" height="800" width="1000"/>
-</p>
+<!--  <img src="https://github.com/user-attachments/assets/7547c38f-79d2-4c29-88b5-334573086801" alt="scientist" height="800" width="1000"/>
+<!-- </p> -->
 
 
 
