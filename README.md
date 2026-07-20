@@ -34,7 +34,7 @@ Since college, the cloud and ```distributed systems``` have been my field of cho
 ***
 
 ## Skill
-I'm a software software engineer ```{backend}```.
+I'm a software engineer ```{backend}```.
 ***
 
 
